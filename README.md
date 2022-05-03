@@ -1,5 +1,10 @@
 # ctextadven
 
+IMPORTANT
+
+rewriting everything to be in proper formatting and different files/libraries. Expect zero updates for a few days. 
+
+
 
 Text adventure I'm making for fun and learning. Expect plenty of bugs and not much features, will try to update here and there
 
