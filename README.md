@@ -2,8 +2,7 @@
 
 IMPORTANT
 
-rewriting everything to be in proper formatting and different files/libraries. Expect zero updates for a few days. 
-
+rewriting everything to be in proper formatting and different files/libraries.  
 
 I have rewritten most of the code and it is now in a usable state, will be reimplementing objects and locations soon. 
 
