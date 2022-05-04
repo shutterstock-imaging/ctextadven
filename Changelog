@@ -1,4 +1,4 @@
-Changelog - V0.0.1
+~~Changelog - V0.0.1
 
 Added inventory to interact with objects
 Updated introduction text
@@ -6,4 +6,15 @@ Organized some stuff
 
 Current bugs;
 
-You can pickup characters such as the guard. 
+You can pickup characters such as the guard.~~
+
+IRRELEVANT - pre-rewrite
+
+------------------------------
+
+Changelog v0.0
+
+Rewritten code to be in proper format and various files for proper readability and better optimization. 
+**No objects or inventory - soon to be reimplemented**
+
+
